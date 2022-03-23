@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sachin kumar mern developer</h1>
-<h3 align="center">A passionate full Stack web developer from India <br> An aspiring full stack web developer whose aim is to learn and grow as an individual. Coding being his passion, he is looking for a challenging work environment to always push himself past his limitations. And work from anywhere </h3>
+<h3 align="center">A passionate full Stack web developer from India. <br> An aspiring full stack web developer whose aim is to learn and grow as an individual. Coding being his passion, he is looking for a challenging work environment to always push himself past his limitations. And work from anywhere </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacheenshyama&label=Profile%20views&color=0e75b6&style=flat" alt="sacheenshyama" /> </p>
 
