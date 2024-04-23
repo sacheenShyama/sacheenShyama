@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nomadsachin2002@gmail.com**
 
-- 📄 resume: [https://drive.google.com/file/d/1Yig0oC7-AdnIa0gXpzLLRPUCzXp7XZRq/view?usp=sharing](https://drive.google.com/file/d/1Yig0oC7-AdnIa0gXpzLLRPUCzXp7XZRq/view?usp=sharing)
+- 📄 resume: [https://drive.google.com/file/d/1Yig0oC7-AdnIa0gXpzLLRPUCzXp7XZRq/view?usp=sharing](https://drive.google.com/file/d/1Yig0oC7-AdnIa0gXpzLLRPUCzXp7XZRq/view?usp=sharing)](https://drive.google.com/file/d/1sR4t7Nbzy_JvQLql6TYjegQErCcS_r6C/view?usp=sharing)
 
 - ⚡ Fun fact **i love to reach new place like villages,rivers through cycle.**
 
