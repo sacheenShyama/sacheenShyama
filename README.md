@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacheenshyama&label=Profile%20views&color=0e75b6&style=flat" alt="sacheenshyama" /> </p>
 
-- 🌱 I’m currently learning **full stack web development**
 
 - 📫 How to reach me **nomadsachin2002@gmail.com**
 
