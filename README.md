@@ -7,7 +7,7 @@
 - 📫 How to reach me **nomadsachin2002@gmail.com**
 
 
-- ⚡ Fun fact **i love to reach new place like villages,rivers through cycle.**
+- ⚡ Fun fact **i love to reach new place like villages,rivers through motorcycle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
